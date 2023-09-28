@@ -1,5 +1,5 @@
-{application, my_cache, [
-    {description, "erlang course 2023 homework5"},
+{application, kv, [
+    {description, "kv"},
     {vsn, "git"},
     {registered, []},
     {applications, [kernel, stdlib]},

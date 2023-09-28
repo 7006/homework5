@@ -1,0 +1,8 @@
+{application, my_cache, [
+    {description, "my cache"},
+    {vsn, "git"},
+    {registered, []},
+    {applications, [kernel, stdlib]},
+    {env, []},
+    {modules, []}
+]}.
