@@ -1,5 +1,5 @@
 {application, kv, [
-    {description, "kv"},
+    {description, "Benchmarks of different Key-Value storage implementations"},
     {vsn, "git"},
     {registered, []},
     {applications, [kernel, stdlib]},
