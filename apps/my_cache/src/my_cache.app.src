@@ -1,5 +1,5 @@
 {application, my_cache, [
-    {description, "my cache"},
+    {description, "Simple cache powered by ETS"},
     {vsn, "git"},
     {registered, []},
     {applications, [kernel, stdlib]},
